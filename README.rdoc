@@ -1,7 +1,7 @@
-= slack_mb_roamer - DESCRIBE YOUR GEM
+= slack_mb_roamer - On a mac, posts to slack on network change.
 
-Author::  YOUR NAME (YOUR EMAIL)
-Copyright:: Copyright (c) 2019 YOUR NAME
+Author::  Corprew Reed (github-public-incoming@corprew.org)
+Copyright:: Copyright (c) 2019 Corprew Reed
 
 
 License:: mit, see LICENSE.txt
@@ -12,7 +12,9 @@ DESCRIBE YOUR GEM HERE
 
 == Links
 
-* {Source on Github}[LINK TO GITHUB]
+
+
+* {Source on Github}[https://github.com/corprew/slack_mb_roamer]
 * RDoc[LINK TO RDOC.INFO]
 
 == Install
