@@ -53,7 +53,7 @@ module SlackMbRoamer
       client.chat_postMessage(channel: prefs["channel"], text: "@#{profile.real_name} is #{location}")
     end
     if prefs["status"]
-      puts client.users_profile_set(profile: { status_text: "currently #{location}", status_emoji: emoji }.to_json)
+      client.users_profile_set(profile: { status_text: "currently #{location}", status_emoji: emoji }.to_json)
     end
   else
     puts "empty location, not posting to slack."
