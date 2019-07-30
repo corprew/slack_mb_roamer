@@ -90,6 +90,7 @@ This file says
 You can name the service something else, but you have to be consistent.  At this point, load and run the service:
 
 `launchctl load org.corprew.slack_mb_roamer.plist`
+
 `launchctl start org.corprew.slack_mb_roamer`
 
 ...and then you should be good to go.
