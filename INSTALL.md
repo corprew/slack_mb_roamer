@@ -1,5 +1,7 @@
 # slack_mb_roamer installation & configuration.
 
+_AKA The "Where is Corprew drinking Coffee Daemon"_ 
+
 This gem executable was something I created a while ago to help people that I was working with remotely figure out where I was working from on any particular day.  I removed some of the weirder features and figured I would share it here as a service to others. This runs a gem's executable when the network configuration changes on an MacOS computer using `launchctl`.
 
 You install the gem by typing `gem install slack_mb_roamer`.  If you use rvm, you should use `rvm wrapper` to generate a wrapper for this executable, otherwise it won't work because the path will be broken and you'll see the errors in your system console after you install the service
