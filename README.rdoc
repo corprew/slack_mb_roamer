@@ -1,23 +1,19 @@
-= slack_mb_roamer - On a mac, posts to slack on network change.
+= slack_mb_roamer - On a mac, posts to slack or sets slack status on network change.
 
 Author::  Corprew Reed (github-public-incoming@corprew.org)
 Copyright:: Copyright (c) 2019 Corprew Reed
 
-
 License:: mit, see LICENSE.txt
 
-
-
-DESCRIBE YOUR GEM HERE
+Check out the Install and Config info link below for how to use this Gem..
 
 == Links
 
-
-
 * {Source on Github}[https://github.com/corprew/slack_mb_roamer]
-* RDoc[LINK TO RDOC.INFO]
 
 == Install
+
+* {Install and Config info}[https://github.com/corprew/slack_mb_roamer/INSTALL.md]
 
 == Examples
 
