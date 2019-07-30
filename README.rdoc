@@ -1,5 +1,7 @@
 = slack_mb_roamer - On a mac, posts to slack or sets slack status on network change.
 
+a/k/a the "where to have coffee with corprew slack updater"
+
 Author::  Corprew Reed (github-public-incoming@corprew.org)
 Copyright:: Copyright (c) 2019 Corprew Reed
 
@@ -13,7 +15,7 @@ Check out the Install and Config info link below for how to use this Gem..
 
 == Install
 
-* {Install and Config info}[https://github.com/corprew/slack_mb_roamer/INSTALL.md]
+* {Install and Config info}[https://github.com/corprew/slack_mb_roamer/blob/master/INSTALL.md]
 
 == Examples
 
